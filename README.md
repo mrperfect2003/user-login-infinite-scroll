@@ -56,4 +56,6 @@ log with
 email:- perfectkeshavraj@gmail.com
 password :- keshav123
 company name:- keshavraj
+
+run :- npm run dev
 ```
